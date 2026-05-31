@@ -1,0 +1,1184 @@
+{
+  "_version": 3,
+  "regions": {
+    "서울": {
+      "동대문구": {
+        "schoolCount": 47,
+        "academyCount": 729,
+        "academiesPerSchool": 15.51
+      },
+      "서대문구": {
+        "schoolCount": 40,
+        "academyCount": 740,
+        "academiesPerSchool": 18.5
+      },
+      "영등포구": {
+        "schoolCount": 44,
+        "academyCount": 868,
+        "academiesPerSchool": 19.73
+      },
+      "강남구": {
+        "schoolCount": 80,
+        "academyCount": 3441,
+        "academiesPerSchool": 43.01
+      },
+      "강동구": {
+        "schoolCount": 62,
+        "academyCount": 1417,
+        "academiesPerSchool": 22.85
+      },
+      "강북구": {
+        "schoolCount": 34,
+        "academyCount": 386,
+        "academiesPerSchool": 11.35
+      },
+      "강서구": {
+        "schoolCount": 80,
+        "academyCount": 1381,
+        "academiesPerSchool": 17.26
+      },
+      "관악구": {
+        "schoolCount": 55,
+        "academyCount": 727,
+        "academiesPerSchool": 13.22
+      },
+      "광진구": {
+        "schoolCount": 42,
+        "academyCount": 734,
+        "academiesPerSchool": 17.48
+      },
+      "구로구": {
+        "schoolCount": 54,
+        "academyCount": 789,
+        "academiesPerSchool": 14.61
+      },
+      "금천구": {
+        "schoolCount": 33,
+        "academyCount": 369,
+        "academiesPerSchool": 11.18
+      },
+      "노원구": {
+        "schoolCount": 93,
+        "academyCount": 1458,
+        "academiesPerSchool": 15.68
+      },
+      "도봉구": {
+        "schoolCount": 45,
+        "academyCount": 588,
+        "academiesPerSchool": 13.07
+      },
+      "동작구": {
+        "schoolCount": 45,
+        "academyCount": 924,
+        "academiesPerSchool": 20.53
+      },
+      "마포구": {
+        "schoolCount": 45,
+        "academyCount": 1169,
+        "academiesPerSchool": 25.98
+      },
+      "서초구": {
+        "schoolCount": 49,
+        "academyCount": 1814,
+        "academiesPerSchool": 37.02
+      },
+      "성동구": {
+        "schoolCount": 39,
+        "academyCount": 574,
+        "academiesPerSchool": 14.72
+      },
+      "성북구": {
+        "schoolCount": 60,
+        "academyCount": 979,
+        "academiesPerSchool": 16.32
+      },
+      "송파구": {
+        "schoolCount": 90,
+        "academyCount": 1958,
+        "academiesPerSchool": 21.76
+      },
+      "양천구": {
+        "schoolCount": 63,
+        "academyCount": 2109,
+        "academiesPerSchool": 33.48
+      },
+      "용산구": {
+        "schoolCount": 33,
+        "academyCount": 247,
+        "academiesPerSchool": 7.48
+      },
+      "은평구": {
+        "schoolCount": 66,
+        "academyCount": 1083,
+        "academiesPerSchool": 16.41
+      },
+      "종로구": {
+        "schoolCount": 36,
+        "academyCount": 291,
+        "academiesPerSchool": 8.08
+      },
+      "중랑구": {
+        "schoolCount": 47,
+        "academyCount": 558,
+        "academiesPerSchool": 11.87
+      },
+      "중구": {
+        "schoolCount": 31,
+        "academyCount": 160,
+        "academiesPerSchool": 5.16
+      }
+    },
+    "부산": {
+      "부산진구": {
+        "schoolCount": 67,
+        "academyCount": 917,
+        "academiesPerSchool": 13.69
+      },
+      "해운대구": {
+        "schoolCount": 64,
+        "academyCount": 1404,
+        "academiesPerSchool": 21.94
+      },
+      "강서구": {
+        "schoolCount": 39,
+        "academyCount": 650,
+        "academiesPerSchool": 16.67
+      },
+      "금정구": {
+        "schoolCount": 47,
+        "academyCount": 609,
+        "academiesPerSchool": 12.96
+      },
+      "기장군": {
+        "schoolCount": 35,
+        "academyCount": 585,
+        "academiesPerSchool": 16.71
+      },
+      "동래구": {
+        "schoolCount": 50,
+        "academyCount": 1144,
+        "academiesPerSchool": 22.88
+      },
+      "사상구": {
+        "schoolCount": 35,
+        "academyCount": 272,
+        "academiesPerSchool": 7.77
+      },
+      "사하구": {
+        "schoolCount": 56,
+        "academyCount": 677,
+        "academiesPerSchool": 12.09
+      },
+      "수영구": {
+        "schoolCount": 20,
+        "academyCount": 504,
+        "academiesPerSchool": 25.2
+      },
+      "연제구": {
+        "schoolCount": 28,
+        "academyCount": 555,
+        "academiesPerSchool": 19.82
+      },
+      "영도구": {
+        "schoolCount": 27,
+        "academyCount": 129,
+        "academiesPerSchool": 4.78
+      },
+      "남구": {
+        "schoolCount": 48,
+        "academyCount": 640,
+        "academiesPerSchool": 13.33
+      },
+      "동구": {
+        "schoolCount": 16,
+        "academyCount": 109,
+        "academiesPerSchool": 6.81
+      },
+      "북구": {
+        "schoolCount": 51,
+        "academyCount": 646,
+        "academiesPerSchool": 12.67
+      },
+      "서구": {
+        "schoolCount": 23,
+        "academyCount": 225,
+        "academiesPerSchool": 9.78
+      },
+      "중구": {
+        "schoolCount": 9,
+        "academyCount": 50,
+        "academiesPerSchool": 5.56
+      }
+    },
+    "대구": {
+      "달서구": {
+        "schoolCount": 106,
+        "academyCount": 1796,
+        "academiesPerSchool": 16.94
+      },
+      "달성군": {
+        "schoolCount": 61,
+        "academyCount": 759,
+        "academiesPerSchool": 12.44
+      },
+      "수성구": {
+        "schoolCount": 74,
+        "academyCount": 2498,
+        "academiesPerSchool": 33.76
+      },
+      "남구": {
+        "schoolCount": 24,
+        "academyCount": 259,
+        "academiesPerSchool": 10.79
+      },
+      "동구": {
+        "schoolCount": 56,
+        "academyCount": 886,
+        "academiesPerSchool": 15.82
+      },
+      "북구": {
+        "schoolCount": 78,
+        "academyCount": 1173,
+        "academiesPerSchool": 15.04
+      },
+      "서구": {
+        "schoolCount": 31,
+        "academyCount": 253,
+        "academiesPerSchool": 8.16
+      },
+      "중구": {
+        "schoolCount": 19,
+        "academyCount": 442,
+        "academiesPerSchool": 23.26
+      }
+    },
+    "인천": {
+      "미추홀구": {
+        "schoolCount": 50,
+        "academyCount": 635,
+        "academiesPerSchool": 12.7
+      },
+      "강화군": {
+        "schoolCount": 37,
+        "academyCount": 73,
+        "academiesPerSchool": 1.97
+      },
+      "계양구": {
+        "schoolCount": 53,
+        "academyCount": 484,
+        "academiesPerSchool": 9.13
+      },
+      "남동구": {
+        "schoolCount": 77,
+        "academyCount": 1141,
+        "academiesPerSchool": 14.82
+      },
+      "부평구": {
+        "schoolCount": 82,
+        "academyCount": 937,
+        "academiesPerSchool": 11.43
+      },
+      "연수구": {
+        "schoolCount": 70,
+        "academyCount": 1436,
+        "academiesPerSchool": 20.51
+      },
+      "옹진군": {
+        "schoolCount": 20,
+        "academyCount": 5,
+        "academiesPerSchool": 0.25
+      },
+      "동구": {
+        "schoolCount": 14,
+        "academyCount": 62,
+        "academiesPerSchool": 4.43
+      },
+      "서구": {
+        "schoolCount": 103,
+        "academyCount": 1792,
+        "academiesPerSchool": 17.4
+      },
+      "중구": {
+        "schoolCount": 45,
+        "academyCount": 346,
+        "academiesPerSchool": 7.69
+      }
+    },
+    "광주": {
+      "광산구": {
+        "schoolCount": 88,
+        "academyCount": 1287,
+        "academiesPerSchool": 14.63
+      },
+      "남구": {
+        "schoolCount": 56,
+        "academyCount": 914,
+        "academiesPerSchool": 16.32
+      },
+      "동구": {
+        "schoolCount": 22,
+        "academyCount": 389,
+        "academiesPerSchool": 17.68
+      },
+      "북구": {
+        "schoolCount": 96,
+        "academyCount": 1329,
+        "academiesPerSchool": 13.84
+      },
+      "서구": {
+        "schoolCount": 52,
+        "academyCount": 918,
+        "academiesPerSchool": 17.65
+      }
+    },
+    "대전": {
+      "대덕구": {
+        "schoolCount": 38,
+        "academyCount": 316,
+        "academiesPerSchool": 8.32
+      },
+      "유성구": {
+        "schoolCount": 82,
+        "academyCount": 1156,
+        "academiesPerSchool": 14.1
+      },
+      "동구": {
+        "schoolCount": 44,
+        "academyCount": 355,
+        "academiesPerSchool": 8.07
+      },
+      "서구": {
+        "schoolCount": 88,
+        "academyCount": 1473,
+        "academiesPerSchool": 16.74
+      },
+      "중구": {
+        "schoolCount": 55,
+        "academyCount": 475,
+        "academiesPerSchool": 8.64
+      }
+    },
+    "울산": {
+      "울주군": {
+        "schoolCount": 59,
+        "academyCount": 597,
+        "academiesPerSchool": 10.12
+      },
+      "남구": {
+        "schoolCount": 62,
+        "academyCount": 1362,
+        "academiesPerSchool": 21.97
+      },
+      "동구": {
+        "schoolCount": 34,
+        "academyCount": 387,
+        "academiesPerSchool": 11.38
+      },
+      "북구": {
+        "schoolCount": 49,
+        "academyCount": 741,
+        "academiesPerSchool": 15.12
+      },
+      "중구": {
+        "schoolCount": 41,
+        "academyCount": 587,
+        "academiesPerSchool": 14.32
+      }
+    },
+    "세종": {
+      "세종시": {
+        "schoolCount": 105,
+        "academyCount": 1726,
+        "academiesPerSchool": 16.44
+      }
+    },
+    "경기": {
+      "남양주시": {
+        "schoolCount": 127,
+        "academyCount": 2048,
+        "academiesPerSchool": 16.13
+      },
+      "동두천시": {
+        "schoolCount": 23,
+        "academyCount": 121,
+        "academiesPerSchool": 5.26
+      },
+      "의정부시": {
+        "schoolCount": 70,
+        "academyCount": 1164,
+        "academiesPerSchool": 16.63
+      },
+      "가평군": {
+        "schoolCount": 26,
+        "academyCount": 85,
+        "academiesPerSchool": 3.27
+      },
+      "고양시": {
+        "schoolCount": 174,
+        "academyCount": 3459,
+        "academiesPerSchool": 19.88
+      },
+      "과천시": {
+        "schoolCount": 13,
+        "academyCount": 294,
+        "academiesPerSchool": 22.62
+      },
+      "광명시": {
+        "schoolCount": 48,
+        "academyCount": 886,
+        "academiesPerSchool": 18.46
+      },
+      "광주시": {
+        "schoolCount": 55,
+        "academyCount": 801,
+        "academiesPerSchool": 14.56
+      },
+      "구리시": {
+        "schoolCount": 31,
+        "academyCount": 585,
+        "academiesPerSchool": 18.87
+      },
+      "군포시": {
+        "schoolCount": 47,
+        "academyCount": 679,
+        "academiesPerSchool": 14.45
+      },
+      "김포시": {
+        "schoolCount": 89,
+        "academyCount": 1782,
+        "academiesPerSchool": 20.02
+      },
+      "부천시": {
+        "schoolCount": 126,
+        "academyCount": 2068,
+        "academiesPerSchool": 16.41
+      },
+      "성남시": {
+        "schoolCount": 153,
+        "academyCount": 3293,
+        "academiesPerSchool": 21.52
+      },
+      "수원시": {
+        "schoolCount": 205,
+        "academyCount": 3672,
+        "academiesPerSchool": 17.91
+      },
+      "시흥시": {
+        "schoolCount": 94,
+        "academyCount": 1462,
+        "academiesPerSchool": 15.55
+      },
+      "안산시": {
+        "schoolCount": 108,
+        "academyCount": 1217,
+        "academiesPerSchool": 11.27
+      },
+      "안성시": {
+        "schoolCount": 56,
+        "academyCount": 349,
+        "academiesPerSchool": 6.23
+      },
+      "안양시": {
+        "schoolCount": 86,
+        "academyCount": 1809,
+        "academiesPerSchool": 21.03
+      },
+      "양주시": {
+        "schoolCount": 60,
+        "academyCount": 597,
+        "academiesPerSchool": 9.95
+      },
+      "양평군": {
+        "schoolCount": 43,
+        "academyCount": 230,
+        "academiesPerSchool": 5.35
+      },
+      "여주시": {
+        "schoolCount": 47,
+        "academyCount": 164,
+        "academiesPerSchool": 3.49
+      },
+      "연천군": {
+        "schoolCount": 21,
+        "academyCount": 37,
+        "academiesPerSchool": 1.76
+      },
+      "오산시": {
+        "schoolCount": 45,
+        "academyCount": 556,
+        "academiesPerSchool": 12.36
+      },
+      "용인시": {
+        "schoolCount": 193,
+        "academyCount": 3414,
+        "academiesPerSchool": 17.69
+      },
+      "의왕시": {
+        "schoolCount": 30,
+        "academyCount": 340,
+        "academiesPerSchool": 11.33
+      },
+      "이천시": {
+        "schoolCount": 59,
+        "academyCount": 580,
+        "academiesPerSchool": 9.83
+      },
+      "파주시": {
+        "schoolCount": 114,
+        "academyCount": 1332,
+        "academiesPerSchool": 11.68
+      },
+      "평택시": {
+        "schoolCount": 127,
+        "academyCount": 1349,
+        "academiesPerSchool": 10.62
+      },
+      "포천시": {
+        "schoolCount": 49,
+        "academyCount": 149,
+        "academiesPerSchool": 3.04
+      },
+      "하남시": {
+        "schoolCount": 47,
+        "academyCount": 1069,
+        "academiesPerSchool": 22.74
+      },
+      "화성시": {
+        "schoolCount": 192,
+        "academyCount": 3458,
+        "academiesPerSchool": 18.01
+      }
+    },
+    "강원": {
+      "강릉시": {
+        "schoolCount": 60,
+        "academyCount": 591,
+        "academiesPerSchool": 9.85
+      },
+      "고성군": {
+        "schoolCount": 21,
+        "academyCount": 18,
+        "academiesPerSchool": 0.86
+      },
+      "동해시": {
+        "schoolCount": 27,
+        "academyCount": 175,
+        "academiesPerSchool": 6.48
+      },
+      "삼척시": {
+        "schoolCount": 36,
+        "academyCount": 85,
+        "academiesPerSchool": 2.36
+      },
+      "속초시": {
+        "schoolCount": 19,
+        "academyCount": 161,
+        "academiesPerSchool": 8.47
+      },
+      "양구군": {
+        "schoolCount": 19,
+        "academyCount": 27,
+        "academiesPerSchool": 1.42
+      },
+      "양양군": {
+        "schoolCount": 20,
+        "academyCount": 32,
+        "academiesPerSchool": 1.6
+      },
+      "영월군": {
+        "schoolCount": 29,
+        "academyCount": 47,
+        "academiesPerSchool": 1.62
+      },
+      "원주시": {
+        "schoolCount": 91,
+        "academyCount": 1011,
+        "academiesPerSchool": 11.11
+      },
+      "인제군": {
+        "schoolCount": 24,
+        "academyCount": 38,
+        "academiesPerSchool": 1.58
+      },
+      "정선군": {
+        "schoolCount": 34,
+        "academyCount": 27,
+        "academiesPerSchool": 0.79
+      },
+      "철원군": {
+        "schoolCount": 26,
+        "academyCount": 59,
+        "academiesPerSchool": 2.27
+      },
+      "춘천시": {
+        "schoolCount": 76,
+        "academyCount": 691,
+        "academiesPerSchool": 9.09
+      },
+      "태백시": {
+        "schoolCount": 23,
+        "academyCount": 42,
+        "academiesPerSchool": 1.83
+      },
+      "평창군": {
+        "schoolCount": 31,
+        "academyCount": 31,
+        "academiesPerSchool": 1
+      },
+      "홍천군": {
+        "schoolCount": 43,
+        "academyCount": 81,
+        "academiesPerSchool": 1.88
+      },
+      "화천군": {
+        "schoolCount": 19,
+        "academyCount": 25,
+        "academiesPerSchool": 1.32
+      },
+      "횡성군": {
+        "schoolCount": 34,
+        "academyCount": 43,
+        "academiesPerSchool": 1.26
+      }
+    },
+    "충북": {
+      "괴산군": {
+        "schoolCount": 23,
+        "academyCount": 18,
+        "academiesPerSchool": 0.78
+      },
+      "단양군": {
+        "schoolCount": 20,
+        "academyCount": 21,
+        "academiesPerSchool": 1.05
+      },
+      "보은군": {
+        "schoolCount": 22,
+        "academyCount": 25,
+        "academiesPerSchool": 1.14
+      },
+      "영동군": {
+        "schoolCount": 26,
+        "academyCount": 51,
+        "academiesPerSchool": 1.96
+      },
+      "옥천군": {
+        "schoolCount": 21,
+        "academyCount": 42,
+        "academiesPerSchool": 2
+      },
+      "음성군": {
+        "schoolCount": 35,
+        "academyCount": 108,
+        "academiesPerSchool": 3.09
+      },
+      "제천시": {
+        "schoolCount": 43,
+        "academyCount": 252,
+        "academiesPerSchool": 5.86
+      },
+      "증평군": {
+        "schoolCount": 10,
+        "academyCount": 67,
+        "academiesPerSchool": 6.7
+      },
+      "진천군": {
+        "schoolCount": 28,
+        "academyCount": 144,
+        "academiesPerSchool": 5.14
+      },
+      "청주시": {
+        "schoolCount": 187,
+        "academyCount": 2239,
+        "academiesPerSchool": 11.97
+      },
+      "충주시": {
+        "schoolCount": 68,
+        "academyCount": 488,
+        "academiesPerSchool": 7.18
+      }
+    },
+    "충남": {
+      "계룡시": {
+        "schoolCount": 11,
+        "academyCount": 115,
+        "academiesPerSchool": 10.45
+      },
+      "공주시": {
+        "schoolCount": 51,
+        "academyCount": 132,
+        "academiesPerSchool": 2.59
+      },
+      "금산군": {
+        "schoolCount": 29,
+        "academyCount": 43,
+        "academiesPerSchool": 1.48
+      },
+      "논산시": {
+        "schoolCount": 58,
+        "academyCount": 165,
+        "academiesPerSchool": 2.84
+      },
+      "당진시": {
+        "schoolCount": 57,
+        "academyCount": 325,
+        "academiesPerSchool": 5.7
+      },
+      "보령시": {
+        "schoolCount": 47,
+        "academyCount": 172,
+        "academiesPerSchool": 3.66
+      },
+      "부여군": {
+        "schoolCount": 36,
+        "academyCount": 50,
+        "academiesPerSchool": 1.39
+      },
+      "서산시": {
+        "schoolCount": 54,
+        "academyCount": 353,
+        "academiesPerSchool": 6.54
+      },
+      "서천군": {
+        "schoolCount": 32,
+        "academyCount": 57,
+        "academiesPerSchool": 1.78
+      },
+      "아산시": {
+        "schoolCount": 87,
+        "academyCount": 731,
+        "academiesPerSchool": 8.4
+      },
+      "예산군": {
+        "schoolCount": 42,
+        "academyCount": 105,
+        "academiesPerSchool": 2.5
+      },
+      "천안시": {
+        "schoolCount": 132,
+        "academyCount": 1952,
+        "academiesPerSchool": 14.79
+      },
+      "청양군": {
+        "schoolCount": 17,
+        "academyCount": 15,
+        "academiesPerSchool": 0.88
+      },
+      "태안군": {
+        "schoolCount": 30,
+        "academyCount": 53,
+        "academiesPerSchool": 1.77
+      },
+      "홍성군": {
+        "schoolCount": 41,
+        "academyCount": 199,
+        "academiesPerSchool": 4.85
+      }
+    },
+    "전북": {
+      "고창군": {
+        "schoolCount": 40,
+        "academyCount": 74,
+        "academiesPerSchool": 1.85
+      },
+      "군산시": {
+        "schoolCount": 80,
+        "academyCount": 660,
+        "academiesPerSchool": 8.25
+      },
+      "김제시": {
+        "schoolCount": 56,
+        "academyCount": 107,
+        "academiesPerSchool": 1.91
+      },
+      "남원시": {
+        "schoolCount": 48,
+        "academyCount": 134,
+        "academiesPerSchool": 2.79
+      },
+      "무주군": {
+        "schoolCount": 20,
+        "academyCount": 26,
+        "academiesPerSchool": 1.3
+      },
+      "부안군": {
+        "schoolCount": 38,
+        "academyCount": 57,
+        "academiesPerSchool": 1.5
+      },
+      "순창군": {
+        "schoolCount": 25,
+        "academyCount": 24,
+        "academiesPerSchool": 0.96
+      },
+      "완주군": {
+        "schoolCount": 51,
+        "academyCount": 205,
+        "academiesPerSchool": 4.02
+      },
+      "익산시": {
+        "schoolCount": 104,
+        "academyCount": 630,
+        "academiesPerSchool": 6.06
+      },
+      "임실군": {
+        "schoolCount": 25,
+        "academyCount": 20,
+        "academiesPerSchool": 0.8
+      },
+      "장수군": {
+        "schoolCount": 22,
+        "academyCount": 23,
+        "academiesPerSchool": 1.05
+      },
+      "전주시": {
+        "schoolCount": 146,
+        "academyCount": 2541,
+        "academiesPerSchool": 17.4
+      },
+      "정읍시": {
+        "schoolCount": 65,
+        "academyCount": 229,
+        "academiesPerSchool": 3.52
+      },
+      "진안군": {
+        "schoolCount": 28,
+        "academyCount": 15,
+        "academiesPerSchool": 0.54
+      }
+    },
+    "전남": {
+      "강진군": {
+        "schoolCount": 26,
+        "academyCount": 34,
+        "academiesPerSchool": 1.31
+      },
+      "고흥군": {
+        "schoolCount": 37,
+        "academyCount": 48,
+        "academiesPerSchool": 1.3
+      },
+      "곡성군": {
+        "schoolCount": 15,
+        "academyCount": 24,
+        "academiesPerSchool": 1.6
+      },
+      "광양시": {
+        "schoolCount": 52,
+        "academyCount": 318,
+        "academiesPerSchool": 6.12
+      },
+      "구례군": {
+        "schoolCount": 17,
+        "academyCount": 25,
+        "academiesPerSchool": 1.47
+      },
+      "나주시": {
+        "schoolCount": 53,
+        "academyCount": 287,
+        "academiesPerSchool": 5.42
+      },
+      "담양군": {
+        "schoolCount": 25,
+        "academyCount": 26,
+        "academiesPerSchool": 1.04
+      },
+      "목포시": {
+        "schoolCount": 64,
+        "academyCount": 510,
+        "academiesPerSchool": 7.97
+      },
+      "무안군": {
+        "schoolCount": 38,
+        "academyCount": 333,
+        "academiesPerSchool": 8.76
+      },
+      "보성군": {
+        "schoolCount": 33,
+        "academyCount": 35,
+        "academiesPerSchool": 1.06
+      },
+      "순천시": {
+        "schoolCount": 79,
+        "academyCount": 713,
+        "academiesPerSchool": 9.03
+      },
+      "신안군": {
+        "schoolCount": 40,
+        "academyCount": 4,
+        "academiesPerSchool": 0.1
+      },
+      "여수시": {
+        "schoolCount": 93,
+        "academyCount": 642,
+        "academiesPerSchool": 6.9
+      },
+      "영광군": {
+        "schoolCount": 30,
+        "academyCount": 86,
+        "academiesPerSchool": 2.87
+      },
+      "영암군": {
+        "schoolCount": 33,
+        "academyCount": 55,
+        "academiesPerSchool": 1.67
+      },
+      "완도군": {
+        "schoolCount": 42,
+        "academyCount": 46,
+        "academiesPerSchool": 1.1
+      },
+      "장성군": {
+        "schoolCount": 24,
+        "academyCount": 47,
+        "academiesPerSchool": 1.96
+      },
+      "장흥군": {
+        "schoolCount": 27,
+        "academyCount": 28,
+        "academiesPerSchool": 1.04
+      },
+      "진도군": {
+        "schoolCount": 25,
+        "academyCount": 31,
+        "academiesPerSchool": 1.24
+      },
+      "함평군": {
+        "schoolCount": 22,
+        "academyCount": 15,
+        "academiesPerSchool": 0.68
+      },
+      "해남군": {
+        "schoolCount": 36,
+        "academyCount": 74,
+        "academiesPerSchool": 2.06
+      },
+      "화순군": {
+        "schoolCount": 31,
+        "academyCount": 74,
+        "academiesPerSchool": 2.39
+      }
+    },
+    "경북": {
+      "경산시": {
+        "schoolCount": 58,
+        "academyCount": 672,
+        "academiesPerSchool": 11.59
+      },
+      "경주시": {
+        "schoolCount": 83,
+        "academyCount": 552,
+        "academiesPerSchool": 6.65
+      },
+      "고령군": {
+        "schoolCount": 17,
+        "academyCount": 30,
+        "academiesPerSchool": 1.76
+      },
+      "구미시": {
+        "schoolCount": 103,
+        "academyCount": 1288,
+        "academiesPerSchool": 12.5
+      },
+      "군위군": {
+        "schoolCount": 0,
+        "academyCount": 17,
+        "academiesPerSchool": 0
+      },
+      "김천시": {
+        "schoolCount": 52,
+        "academyCount": 258,
+        "academiesPerSchool": 4.96
+      },
+      "문경시": {
+        "schoolCount": 32,
+        "academyCount": 96,
+        "academiesPerSchool": 3
+      },
+      "봉화군": {
+        "schoolCount": 25,
+        "academyCount": 19,
+        "academiesPerSchool": 0.76
+      },
+      "상주시": {
+        "schoolCount": 56,
+        "academyCount": 179,
+        "academiesPerSchool": 3.2
+      },
+      "성주군": {
+        "schoolCount": 23,
+        "academyCount": 37,
+        "academiesPerSchool": 1.61
+      },
+      "안동시": {
+        "schoolCount": 59,
+        "academyCount": 366,
+        "academiesPerSchool": 6.2
+      },
+      "영덕군": {
+        "schoolCount": 22,
+        "academyCount": 28,
+        "academiesPerSchool": 1.27
+      },
+      "영양군": {
+        "schoolCount": 14,
+        "academyCount": 13,
+        "academiesPerSchool": 0.93
+      },
+      "영주시": {
+        "schoolCount": 39,
+        "academyCount": 226,
+        "academiesPerSchool": 5.79
+      },
+      "영천시": {
+        "schoolCount": 40,
+        "academyCount": 141,
+        "academiesPerSchool": 3.52
+      },
+      "예천군": {
+        "schoolCount": 24,
+        "academyCount": 113,
+        "academiesPerSchool": 4.71
+      },
+      "울릉군": {
+        "schoolCount": 6,
+        "academyCount": 4,
+        "academiesPerSchool": 0.67
+      },
+      "울진군": {
+        "schoolCount": 26,
+        "academyCount": 78,
+        "academiesPerSchool": 3
+      },
+      "의성군": {
+        "schoolCount": 32,
+        "academyCount": 27,
+        "academiesPerSchool": 0.84
+      },
+      "청도군": {
+        "schoolCount": 22,
+        "academyCount": 38,
+        "academiesPerSchool": 1.73
+      },
+      "청송군": {
+        "schoolCount": 22,
+        "academyCount": 11,
+        "academiesPerSchool": 0.5
+      },
+      "칠곡군": {
+        "schoolCount": 39,
+        "academyCount": 218,
+        "academiesPerSchool": 5.59
+      },
+      "포항시": {
+        "schoolCount": 133,
+        "academyCount": 1353,
+        "academiesPerSchool": 10.17
+      }
+    },
+    "경남": {
+      "거제시": {
+        "schoolCount": 71,
+        "academyCount": 556,
+        "academiesPerSchool": 7.83
+      },
+      "거창군": {
+        "schoolCount": 33,
+        "academyCount": 133,
+        "academiesPerSchool": 4.03
+      },
+      "고성군": {
+        "schoolCount": 30,
+        "academyCount": 81,
+        "academiesPerSchool": 2.7
+      },
+      "김해시": {
+        "schoolCount": 116,
+        "academyCount": 1598,
+        "academiesPerSchool": 13.78
+      },
+      "남해군": {
+        "schoolCount": 28,
+        "academyCount": 45,
+        "academiesPerSchool": 1.61
+      },
+      "밀양시": {
+        "schoolCount": 40,
+        "academyCount": 202,
+        "academiesPerSchool": 5.05
+      },
+      "사천시": {
+        "schoolCount": 38,
+        "academyCount": 257,
+        "academiesPerSchool": 6.76
+      },
+      "산청군": {
+        "schoolCount": 24,
+        "academyCount": 27,
+        "academiesPerSchool": 1.13
+      },
+      "양산시": {
+        "schoolCount": 77,
+        "academyCount": 1011,
+        "academiesPerSchool": 13.13
+      },
+      "의령군": {
+        "schoolCount": 22,
+        "academyCount": 23,
+        "academiesPerSchool": 1.05
+      },
+      "진주시": {
+        "schoolCount": 90,
+        "academyCount": 1221,
+        "academiesPerSchool": 13.57
+      },
+      "창녕군": {
+        "schoolCount": 36,
+        "academyCount": 83,
+        "academiesPerSchool": 2.31
+      },
+      "창원시": {
+        "schoolCount": 226,
+        "academyCount": 3005,
+        "academiesPerSchool": 13.3
+      },
+      "통영시": {
+        "schoolCount": 39,
+        "academyCount": 271,
+        "academiesPerSchool": 6.95
+      },
+      "하동군": {
+        "schoolCount": 31,
+        "academyCount": 42,
+        "academiesPerSchool": 1.35
+      },
+      "함안군": {
+        "schoolCount": 30,
+        "academyCount": 106,
+        "academiesPerSchool": 3.53
+      },
+      "함양군": {
+        "schoolCount": 23,
+        "academyCount": 58,
+        "academiesPerSchool": 2.52
+      },
+      "합천군": {
+        "schoolCount": 33,
+        "academyCount": 39,
+        "academiesPerSchool": 1.18
+      }
+    },
+    "제주": {
+      "서귀포시": {
+        "schoolCount": 77,
+        "academyCount": 456,
+        "academiesPerSchool": 5.92
+      },
+      "제주시": {
+        "schoolCount": 123,
+        "academyCount": 1317,
+        "academiesPerSchool": 10.71
+      }
+    }
+  }
+}
